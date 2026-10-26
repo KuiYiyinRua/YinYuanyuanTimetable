@@ -1,0 +1,538 @@
+{
+  "detected": true,
+  "scope": "full",
+  "term": "2026-2027学年第1学期",
+  "rows": [
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程1",
+      "teacher": "示例教师",
+      "timing": "(14-14节)1-8周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程2",
+      "teacher": "示例教师",
+      "timing": "(14-14节)1-8周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程3",
+      "teacher": "示例教师",
+      "timing": "(14-14节)1-8周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程4",
+      "teacher": "示例教师",
+      "timing": "(14-14节)1-8周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程5",
+      "teacher": "示例教师",
+      "timing": "(1-2节)9周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程6",
+      "teacher": "示例教师",
+      "timing": "(1-3节)1-5周,7-17周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程7",
+      "teacher": "示例教师",
+      "timing": "(1-3节)4周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程8",
+      "teacher": "示例教师",
+      "timing": "(1-4节)5-11周(单)"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程9",
+      "teacher": "示例教师",
+      "timing": "(4-5节)2-4周(双),7-10周,12-13周,16-17周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程10",
+      "teacher": "示例教师",
+      "timing": "(1-3节)1-3周,13-17周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程11",
+      "teacher": "示例教师",
+      "timing": "(1-3节)1-5周,7-13周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程12",
+      "teacher": "示例教师",
+      "timing": "(1-3节)1-2周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程13",
+      "teacher": "示例教师",
+      "timing": "(1-3节)1-4周,11-16周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程14",
+      "teacher": "示例教师",
+      "timing": "(1-3节)2-6周(双),7-9周(单),12-13周,15-16周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程15",
+      "teacher": "示例教师",
+      "timing": "(1-3节)3周,6-7周,9周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程16",
+      "teacher": "示例教师",
+      "timing": "(1-3节)11-13周(单),14-17周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程17",
+      "teacher": "示例教师",
+      "timing": "(1-3节)1-3周,6-10周,12-13周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程18",
+      "teacher": "示例教师",
+      "timing": "(1-3节)14-16周(双),17周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程19",
+      "teacher": "示例教师",
+      "timing": "(1-4节)7-9周(单),13-15周(单)"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程20",
+      "teacher": "示例教师",
+      "timing": "(1-5节)1-3周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程21",
+      "teacher": "示例教师",
+      "timing": "(4-5节)1-3周,6-10周,12-16周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程22",
+      "teacher": "示例教师",
+      "timing": "(4-5节)14周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 7,
+      "location": "测试教室",
+      "name": "测试课程23",
+      "teacher": "示例教师",
+      "timing": "(1-4节)7-9周(单)"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程24",
+      "teacher": "示例教师",
+      "timing": "(4-5节)1-5周,12-15周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程25",
+      "teacher": "示例教师",
+      "timing": "(4-5节)14周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程26",
+      "teacher": "示例教师",
+      "timing": "(4-5节)1-5周,7-14周,16周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程27",
+      "teacher": "示例教师",
+      "timing": "(4-5节)3-5周,8-9周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程28",
+      "teacher": "示例教师",
+      "timing": "(4-5节)10-13周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程29",
+      "teacher": "示例教师",
+      "timing": "(4-5节)1-3周,6-7周,9-13周(单),14-17周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程30",
+      "teacher": "示例教师",
+      "timing": "(6-7节)8周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程31",
+      "teacher": "示例教师",
+      "timing": "(6-9节)3-5周(单)"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程32",
+      "teacher": "示例教师",
+      "timing": "(6-9节)11-13周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 1,
+      "location": "测试教室",
+      "name": "测试课程33",
+      "teacher": "示例教师",
+      "timing": "(6-9节)16周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程34",
+      "teacher": "示例教师",
+      "timing": "(6-7节)4周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程35",
+      "teacher": "示例教师",
+      "timing": "(6-9节)2-5周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程36",
+      "teacher": "示例教师",
+      "timing": "(6-9节)7-8周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程37",
+      "teacher": "示例教师",
+      "timing": "(6-9节)11-13周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程38",
+      "teacher": "示例教师",
+      "timing": "(6-9节)15-16周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程39",
+      "teacher": "示例教师",
+      "timing": "(6-9节)2周,12-15周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程40",
+      "teacher": "示例教师",
+      "timing": "(6-9节)3-5周,7-11周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程41",
+      "teacher": "示例教师",
+      "timing": "(8-9节)1-4周,8-16周(双)"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程42",
+      "teacher": "示例教师",
+      "timing": "(8-9节)7-9周(单),10-11周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程43",
+      "teacher": "示例教师",
+      "timing": "(6-7节)1周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程44",
+      "teacher": "示例教师",
+      "timing": "(6-9节)1-4周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程45",
+      "teacher": "示例教师",
+      "timing": "(6-9节)6-13周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 4,
+      "location": "测试教室",
+      "name": "测试课程46",
+      "teacher": "示例教师",
+      "timing": "(6-9节)14-15周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程47",
+      "teacher": "示例教师",
+      "timing": "(6-9节)1-3周,7-10周,12周"
+    },
+    {
+      "assessment": "考试",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程48",
+      "teacher": "示例教师",
+      "timing": "(6-9节)6周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 5,
+      "location": "测试教室",
+      "name": "测试课程49",
+      "teacher": "示例教师",
+      "timing": "(6-9节)13-14周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程50",
+      "teacher": "示例教师",
+      "timing": "(10-13节)7-9周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 2,
+      "location": "测试教室",
+      "name": "测试课程51",
+      "teacher": "示例教师",
+      "timing": "(10-13节)11-14周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程52",
+      "teacher": "示例教师",
+      "timing": "(10-11节)16周"
+    },
+    {
+      "assessment": "未安排",
+      "className": "示例教学班",
+      "day": 3,
+      "location": "测试教室",
+      "name": "测试课程53",
+      "teacher": "示例教师",
+      "timing": "(10-13节)7-14周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 7,
+      "location": "测试教室",
+      "name": "测试课程54",
+      "teacher": "示例教师",
+      "timing": "(10-11节)17周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 7,
+      "location": "测试教室",
+      "name": "测试课程55",
+      "teacher": "示例教师",
+      "timing": "(10-12节)1-2周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 7,
+      "location": "测试教室",
+      "name": "测试课程56",
+      "teacher": "示例教师",
+      "timing": "(10-12节)3周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 7,
+      "location": "测试教室",
+      "name": "测试课程57",
+      "teacher": "示例教师",
+      "timing": "(10-12节)6-7周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 7,
+      "location": "测试教室",
+      "name": "测试课程58",
+      "teacher": "示例教师",
+      "timing": "(10-12节)8-10周"
+    },
+    {
+      "assessment": "考查",
+      "className": "示例教学班",
+      "day": 7,
+      "location": "测试教室",
+      "name": "测试课程59",
+      "teacher": "示例教师",
+      "timing": "(10-12节)12-14周"
+    }
+  ]
+}

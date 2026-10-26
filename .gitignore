@@ -1,0 +1,22 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+dist/
+verification/
+*.jks
+*.keystore
+.idea/
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+key.properties
+secrets.properties
+__pycache__/
+# Local emulator/acceptance helpers depend on unpublished machine fixtures.
+tools/dismiss-emulator-startup-dialog.py
+tools/export-verification.py
+tools/verify-upgrade.py
